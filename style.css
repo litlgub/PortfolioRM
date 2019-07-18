@@ -1,0 +1,47 @@
+*{
+  box-sizing: border-box;
+}
+.body{
+  margin-left: 20px;
+  margin-top: 20px;
+  max-width: 450px;
+}
+
+.header{
+  width: 95%;
+  padding: 10px;
+  outline: 2px solid lightgray;
+}
+
+.headline{
+  position: relative;
+  top: 20px;
+  font-size: 1.7rem;
+}
+
+.title{
+    width: 95%;
+  padding: 10px;
+  outline: 2px solid lightgray;
+  height: 35px;
+}
+.projectlabel{
+  position: relative;
+  bottom: 22px;
+}
+.thumbnail{
+    width: 95%;
+  padding: 10px;
+  background: lightgrey;
+  height: 200px;
+}
+p {
+  width: 95%;
+}
+
+.contact{
+  display: inline-block;
+  position: relative;
+  bottom: 30px;
+
+}
